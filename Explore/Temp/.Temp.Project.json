@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "7HZVOCkVVOrjmii4IBWrOm",
+    "name" : "Temp",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "Auto-generated Default Project",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-04-09T21:34:40.385Z",
+  "objectRefs" : [ ]
+}
