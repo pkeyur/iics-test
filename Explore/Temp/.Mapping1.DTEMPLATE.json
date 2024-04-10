@@ -17,12 +17,12 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "INVALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-04-09T21:34:40.370Z",
+  "updateTime" : "2024-04-10T06:13:04.527Z",
   "objectRefs" : [ ]
 }
